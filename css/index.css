@@ -302,7 +302,7 @@ a.menu-link { display: none; }
 
 .video-overlay {
     position: absolute;
-    background-color: rgba(22,34,57,0.85);
+    background-color: rgba(22, 34, 57, 0.63);
     top: 0;
     left: 0;
     bottom: 7px;
@@ -1518,26 +1518,6 @@ section.contact form button {
 }
 
 /* Footer */
-
-footer {
-    background-color: #152036;
-    text-align: center;
-}
-
-footer p {
-    margin-bottom: 0px;
-    padding: 25px 0px;
-    color: #fff;
-    font-size: 13px;
-    text-transform: uppercase;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-}
-
-footer p a,
-footer p a:hover {
-    color: #f5a425;
-}
 
 @media screen and (max-width: 992px) {
   .features { background-color: #0c1228; }
